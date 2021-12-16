@@ -1,4 +1,4 @@
-<p align="center"><a href="https://enforcers.lk/"><img width="20%" src="https://github.com/SathiraSathsara/SathiraSathsara/raw/main/coding.png" /></a></p>
+<p align="center"><a href="https://enforcers.lk/"><img width="45%" src="https://github.com/SathiraSathsara/SathiraSathsara/raw/main/coding.png" /></a></p>
 
 <br />
 
