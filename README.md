@@ -2,7 +2,7 @@
 
 <br />
 
-I'm person who loved to coding and networking !
+<p align="center">I'm person who loved to coding and networking !</p>
 
 ## About Me
 
