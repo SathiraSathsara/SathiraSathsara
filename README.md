@@ -15,4 +15,6 @@ I'm person who loved to coding and networking !
 
 [![Sathira's GitHub stats](https://github-readme-stats.vercel.app/api?username=SathiraSathsara)](https://github.com/anuraghazra/github-readme-stats)
 
+## Top Repositories
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SathiraSathsara&repo=SathiraSathsara)](https://github.com/SathiraSathsara/SathiraSathsara)
