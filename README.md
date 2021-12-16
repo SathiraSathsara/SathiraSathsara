@@ -19,6 +19,8 @@
 
 [![Sathira's GitHub stats](https://github-readme-stats.vercel.app/api?username=SathiraSathsara)](https://github.com/anuraghazra/github-readme-stats)
 
-## Top Repositories
+## My Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SathiraSathsara&repo=SathiraSathsara)](https://github.com/SathiraSathsara/SathiraSathsara) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SathiraSathsara&repo=enforcers-web)](https://github.com/SathiraSathsara/enforcers-web)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SathiraSathsara&repo=ddos-tool)](https://github.com/SathiraSathsara/ddos-tool)
